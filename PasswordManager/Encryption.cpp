@@ -3,3 +3,10 @@
 
 using namespace std;
 
+int Encryption::primeNumGen() {
+
+}
+
+string Encryption::encryptPW(string pw) {
+
+}

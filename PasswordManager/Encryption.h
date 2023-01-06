@@ -1,12 +1,13 @@
 #pragma once
 #include <stdio.h>
+#include <cstdlib>
 #include <iostream>
 
 using namespace std;
 
 class Encryption {
 private:
-	//string pw;
+	int primeNumGen() {};
 
 public:
 	string encryptPW(string pw) {};
